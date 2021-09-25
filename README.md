@@ -47,10 +47,10 @@ The injector class injects dependencies broadly in three ways: through a constru
 ### Constructor Injection
 In the constructor injection, the injector supplies the service (dependency) through the client class constructor.
 
-### Property Injection
+### Property/Setter Injection
 In the property injection (aka the Setter Injection), the injector supplies the dependency through a public property of the client class.
 
-### Method Injection
+### Method/Interface Injection
 In this type of injection, the client class implements an interface which declares the method(s) to supply the dependency and the injector uses this interface to supply the dependency to the client class.
 
 ## References
