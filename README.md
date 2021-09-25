@@ -61,4 +61,6 @@ Edureka (2019) Spring Boot Full Course - Learn Spring Boot In 4 Hours | Spring B
 
 IBM (2020) Java Spring Boot. Available at: https://www.ibm.com/cloud/learn/java-spring-boot (Accessed: 25 September 2021)
 
+Karia, B. (2018) A quick intro to Dependency Injection: what it is, and when to use it. Available at: https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/ (Accessed: 25 September 2021)
+
 TutorialsTeacher (2020) Inversion of Control Tutorials. Available at: https://www.tutorialsteacher.com/ioc (Accessed: 25 September 2021)
