@@ -1,7 +1,15 @@
-# Spring Boot
-Overview of the Spring Boot framework and its applications.
+# Java Full Stack 
+Overview of Java Full Stack development tools and applications.
 
-## What is Java Spring Boot?
+- React
+- Spring Boot
+
+## React Applications
+React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+
+https://github.com/facebook/create-react-app
+
+## Java Spring Boot
 
 Java Spring Framework (Spring Framework) is a popular, open source, enterprise-level framework for creating standalone, production-grade applications that run on the Java Virtual Machine (JVM). Java Spring Boot (Spring Boot) is a tool that makes developing web application and microservices with Spring Framework faster and easier through three core capabilities:
 
@@ -64,3 +72,5 @@ IBM (2020) Java Spring Boot. Available at: https://www.ibm.com/cloud/learn/java-
 Karia, B. (2018) A quick intro to Dependency Injection: what it is, and when to use it. Available at: https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/ (Accessed: 25 September 2021)
 
 TutorialsTeacher (2020) Inversion of Control Tutorials. Available at: https://www.tutorialsteacher.com/ioc (Accessed: 25 September 2021)
+
+Wikipedia (2021) React (JavaScript library). Available at: https://en.wikipedia.org/wiki/React_(JavaScript_library) (26 September 2021)
