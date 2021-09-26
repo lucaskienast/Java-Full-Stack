@@ -18,6 +18,40 @@ https://github.com/remix-run/react-router
 ### Bootstrap CSS
 https://unpkg.com/browse/bootstrap@4.1.0/dist/css/
 
+## Web Services
+A web service is a software system designed to support interoperable machine-to-machine interaction over a network. In simple points:
+
+- machine-to-machine or app-to-app
+- interoperable or platform independent
+- should allow communication over a network
+
+### How does data exchange b/w apps take place?
+The application sends an input (request) to the web service, and the web service sends an output (response) back to the application. The web service should be platform independent so the request can be sent from a Java, .NET, or PHP application. Hence, the request and response should also be platform independent. The two most popular formats for platform independent requests and responses are XML and JSON (or HTML for web browsing).
+
+### How does the app know the format of request and response?
+Every web service includes a service definition, which specifies:
+
+- request/response format
+- request structure
+- response structure
+- endpoint (where is the service available i.e. which url has to be called)
+
+### REST - REpresentational State Transfer
+It is an architecture style for designing loosely coupled applications over HTTP, that is often used in the development of web services. REST does not enforce any rule regarding how it should be implemented at lower level, it just put high level design guidelines and leave you to think of your own implementation. 
+
+REST defines 6 architectural constraints which make any web service – a true RESTful API.
+
+- Uniform interface
+- client-server
+- stateless
+- cacheable
+- layered system
+- code on demand (optional)
+
+### RESTful Web Services
+RESTful web services are built to work best on the Web. Representational State Transfer (REST) is an architectural style that specifies constraints, such as the uniform interface, that if applied to a web service induce desirable properties, such as performance, scalability, and modifiability, that enable services to work best on the Web. In the REST architectural style, data and functionality are considered resources and are accessed using Uniform Resource Identifiers (URIs), typically links on the Web. The resources are acted upon by using a set of simple, well-defined operations. The REST architectural style constrains an architecture to a client/server architecture and is designed to use a stateless communication protocol, typically HTTP. In the REST architecture style, clients and servers exchange representations of resources by using a standardized interface and protocol.
+
+
 ## Java Spring Boot
 
 Java Spring Framework (Spring Framework) is a popular, open source, enterprise-level framework for creating standalone, production-grade applications that run on the Java Virtual Machine (JVM). Java Spring Boot (Spring Boot) is a tool that makes developing web application and microservices with Spring Framework faster and easier through three core capabilities:
@@ -80,6 +114,10 @@ IBM (2020) Java Spring Boot. Available at: https://www.ibm.com/cloud/learn/java-
 
 Karia, B. (2018) A quick intro to Dependency Injection: what it is, and when to use it. Available at: https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/ (Accessed: 25 September 2021)
 
+Oracle (2013) What Are RESTful Web Services? Available at: https://docs.oracle.com/javaee/6/tutorial/doc/gijqy.html (Accessed: 26 September 2021)
+
 TutorialsTeacher (2020) Inversion of Control Tutorials. Available at: https://www.tutorialsteacher.com/ioc (Accessed: 25 September 2021)
+
+RestfulAPI (2021) REST Architectural Constraints. Available at: https://restfulapi.net/rest-architectural-constraints/ (Accessed: 26 September 2021)
 
 Wikipedia (2021) React (JavaScript library). Available at: https://en.wikipedia.org/wiki/React_(JavaScript_library) (26 September 2021)
