@@ -1,6 +1,8 @@
 # Java Full Stack 
 Overview of Java Full Stack development tools and applications.
 
+- Java
+- JavaScript
 - React
 - Spring Boot
 
@@ -12,8 +14,6 @@ https://github.com/facebook/create-react-app
 
 ### React-Router
 https://github.com/remix-run/react-router
-
-
 
 ## Java Spring Boot
 
