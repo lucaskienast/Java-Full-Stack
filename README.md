@@ -51,6 +51,8 @@ REST defines 6 architectural constraints which make any web service – a true R
 ### RESTful Web Services
 RESTful web services are built to work best on the Web. Representational State Transfer (REST) is an architectural style that specifies constraints, such as the uniform interface, that if applied to a web service induce desirable properties, such as performance, scalability, and modifiability, that enable services to work best on the Web. In the REST architectural style, data and functionality are considered resources and are accessed using Uniform Resource Identifiers (URIs), typically links on the Web. The resources are acted upon by using a set of simple, well-defined operations. The REST architectural style constrains an architecture to a client/server architecture and is designed to use a stateless communication protocol, typically HTTP. In the REST architecture style, clients and servers exchange representations of resources by using a standardized interface and protocol.
 
+### JWT - JSON Web Tokens
+JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA or ECDSA.
 
 ## Java Spring Boot
 
@@ -111,6 +113,8 @@ CodeAcademy (2021) MVC: Model, View, Controller. Available at: https://www.codec
 Edureka (2019) Spring Boot Full Course - Learn Spring Boot In 4 Hours | Spring Boot Tutorial For Beginner | Edureka. Available at: https://www.youtube.com/watch?v=UfOxcrxhC0s (Accessed: 25 September 2021)
 
 IBM (2020) Java Spring Boot. Available at: https://www.ibm.com/cloud/learn/java-spring-boot (Accessed: 25 September 2021)
+
+JWT (2021) Introduction to JSON Web Tokens. Available at: https://jwt.io/introduction (Accessed: 27 September 2021)
 
 Karia, B. (2018) A quick intro to Dependency Injection: what it is, and when to use it. Available at: https://www.freecodecamp.org/news/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f/ (Accessed: 25 September 2021)
 
