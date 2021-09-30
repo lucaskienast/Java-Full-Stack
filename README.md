@@ -9,14 +9,7 @@ Overview of Java Full Stack development tools and applications.
 ## React Applications
 React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
 
-### Create React App
-https://github.com/facebook/create-react-app
-
-### React-Router
-https://github.com/remix-run/react-router
-
-### Bootstrap CSS
-https://unpkg.com/browse/bootstrap@4.1.0/dist/css/
+ReactJS startup guide: https://www.freecodecamp.org/news/quick-guide-to-understanding-and-creating-reactjs-apps-8457ee8f7123/
 
 ## Web Services
 A web service is a software system designed to support interoperable machine-to-machine interaction over a network. In simple points:
@@ -123,5 +116,7 @@ Oracle (2013) What Are RESTful Web Services? Available at: https://docs.oracle.c
 TutorialsTeacher (2020) Inversion of Control Tutorials. Available at: https://www.tutorialsteacher.com/ioc (Accessed: 25 September 2021)
 
 RestfulAPI (2021) REST Architectural Constraints. Available at: https://restfulapi.net/rest-architectural-constraints/ (Accessed: 26 September 2021)
+
+Sridhar, A. (2018) A quick guide to help you understand and create ReactJS apps. Available at: https://www.freecodecamp.org/news/quick-guide-to-understanding-and-creating-reactjs-apps-8457ee8f7123/ (Accessed: 30 September 2021)
 
 Wikipedia (2021) React (JavaScript library). Available at: https://en.wikipedia.org/wiki/React_(JavaScript_library) (26 September 2021)
