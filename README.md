@@ -9,11 +9,9 @@ Overview of Java Full Stack development tools and applications.
 ## React Applications
 React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
 
-ReactJS startup guide: 
-https://www.freecodecamp.org/news/quick-guide-to-understanding-and-creating-reactjs-apps-8457ee8f7123/
+Startup guide: https://www.freecodecamp.org/news/quick-guide-to-understanding-and-creating-reactjs-apps-8457ee8f7123/
 
-ReactJS Hooks:
-https://reactjs.org/docs/hooks-overview.html
+Hooks: https://reactjs.org/docs/hooks-overview.html
 
 ## Web Services
 A web service is a software system designed to support interoperable machine-to-machine interaction over a network. In simple points:
