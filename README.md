@@ -11,7 +11,7 @@ React (also known as React. js or ReactJS) is a free and open-source front-end J
 
 Startup guide: https://www.freecodecamp.org/news/quick-guide-to-understanding-and-creating-reactjs-apps-8457ee8f7123/
 
-Hooks: https://reactjs.org/docs/hooks-overview.html
+Documentation: https://reactjs.org/docs/getting-started.html
 
 ## Web Services
 A web service is a software system designed to support interoperable machine-to-machine interaction over a network. In simple points:
