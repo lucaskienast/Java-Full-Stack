@@ -15,7 +15,7 @@ Intro: https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e
 
 Documentation: https://git-scm.com/doc
 
-## React Applications
+## React
 React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
 
 Startup guide: https://www.freecodecamp.org/news/quick-guide-to-understanding-and-creating-reactjs-apps-8457ee8f7123/
