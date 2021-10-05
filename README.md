@@ -30,6 +30,8 @@ Introduction: https://www.netguru.com/glossary/node-js
 
 Documentation: https://nodejs.org/en/docs/
 
+HTTP Status Code: https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+
 ## Web Services
 A web service is a software system designed to support interoperable machine-to-machine interaction over a network. In simple points:
 
