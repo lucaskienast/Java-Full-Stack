@@ -4,7 +4,7 @@ import './App.css';
 
 const App = () => {
 
-  const API_KEY = "23670498-b95cf5117c37d6ec5c9a3cf2e";
+  const API_KEY = ""; //insert your API key here
   const [images, setImages] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
   const [search, setSearch] = useState("");
