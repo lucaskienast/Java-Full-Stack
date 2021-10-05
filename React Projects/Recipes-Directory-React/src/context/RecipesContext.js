@@ -12,8 +12,8 @@ export const RecipesState = ({children}) => {
     const [error, setError] = useState(false);
     const [loading, setLoading] = useState(false);
 
-    const APP_ID = "f1109fbe";
-    const APP_KEY = "93f83fe8412aa64807fff4fefbcbfb9c";
+    const APP_ID = ""; // insert APP ID here
+    const APP_KEY = ""; // insert App KEY here
     const FIRST_REQUEST = `https://cors-anywhere.herokuapp.com/https://api.edamam.com/search?q=pizza&app_id=${APP_ID}&app_key=${APP_KEY}&from=0&to=9`;
     const URL = `https://cors-anywhere.herokuapp.com/https://api.edamam.com/search?q=${search}app_id=${APP_ID}&app_key=${APP_KEY}&from=${firstRecipe}&to=${lastRecipe}`;
 
