@@ -1,4 +1,4 @@
-# JavaScript Web Application Development
+# JavaScript Web Applications
 Overview of Java Full Stack development tools and applications.
 
 - Git
