@@ -2,12 +2,11 @@
 Overview of Java Full Stack development tools and applications.
 
 - Git
-- Java
-- JavaScript
 - Node.js
 - Express.js
 - React.js
-- Spring Boot
+- Postman
+- Swagger
 
 ## Git
 Git is officially defined as a distributed version control system (VCS). In other words, it's a system that tracks changes to our project files over time. It enables us to record project changes and go back to a specific version of the tracked files, at any given point in time.  This system can be used by many people to efficiently work together and collaborate on team projects, where each developer can have their own version of the project, distributed on their computer. Later on, these individual versions of the project can be merged and adapted into the main version of the project.
@@ -39,3 +38,17 @@ Express is a minimal and flexible Node.js web application framework that provide
 Introduction: https://expressjs.com/en/starter/basic-routing.html || https://www.guru99.com/node-js-express.html
 
 Documentation: https://expressjs.com/en/5x/api.html
+
+## Postman
+Postman is an application used for API testing. It is an HTTP client that tests HTTP requests, utilizing a graphical user interface, through which we obtain different types of responses that need to be subsequently validated. 
+
+Introduction: https://www.encora.com/insights/what-is-postman-api-test
+
+Documentation: https://learning.postman.com/docs/getting-started/introduction/
+
+## Swagger
+Swagger is a set of rules (in other words, a specification) for a format describing REST APIs. The format is both machine-readable and human-readable. As a result, it can be used to share documentation among product managers, testers and developers, but can also be used by various tools to automate API-related processes. When we say REST, we don’t necessarily adhere to the RESTful rules. We refer to the basic concepts behind REST APIs. 
+
+Introduction: https://swagger.io/blog/api-development/getting-started-with-swagger-i-what-is-swagger/
+
+Documentation: https://swagger.io/docs/
