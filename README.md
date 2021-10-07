@@ -2,9 +2,9 @@
 Overview of Java Full Stack development tools and applications.
 
 - Git
+- React.js
 - Node.js
 - Express.js
-- React.js
 - Postman
 - Swagger
 
