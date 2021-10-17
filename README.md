@@ -1,19 +1,11 @@
 # JavaScript Web Applications
 Overview of Java Full Stack development tools and applications.
 
-- Git
 - React.js
 - Node.js
 - Express.js
 - Postman
 - Swagger
-
-## Git
-Git is officially defined as a distributed version control system (VCS). In other words, it's a system that tracks changes to our project files over time. It enables us to record project changes and go back to a specific version of the tracked files, at any given point in time.  This system can be used by many people to efficiently work together and collaborate on team projects, where each developer can have their own version of the project, distributed on their computer. Later on, these individual versions of the project can be merged and adapted into the main version of the project.
-
-Introduction: https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e545db049
-
-Documentation: https://git-scm.com/doc
 
 ## React.js
 React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces or UI components. React is declerative and component-based. React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.
