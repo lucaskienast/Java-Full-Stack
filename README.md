@@ -94,3 +94,10 @@ Documentation: https://www.npmjs.com/package/morgan
 Nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 
 Documentation: https://www.npmjs.com/package/nodemon
+
+## Bcrypt
+BCrypt is based on the Blowfish block cipher cryptomatic algorithm and takes the form of an adaptive hash function. Using a Key Factor, BCrypt is able to adjust the cost of hashing. With Key Factor changes, the hash output can be influenced. In this way, BCrypt remains extremely resistant to hacks, especially a type of password cracking called rainbow table.
+
+Introduction: https://danboterhoven.medium.com/why-you-should-use-bcrypt-to-hash-passwords-af330100b861
+
+Documentation: https://www.npmjs.com/package/bcrypt
