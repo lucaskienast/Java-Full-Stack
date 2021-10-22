@@ -47,3 +47,50 @@ Documentation: https://swagger.io/docs/
 Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.
 
 Documentation: https://getbootstrap.com/docs/5.1/getting-started/introduction/
+
+## MongoDB
+MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License.
+
+Getting Started: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
+
+Introduction: https://docs.mongodb.com/manual/introduction/
+
+## Mongoose
+Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. js. It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB.
+
+Getting Started: https://mongoosejs.com/docs/
+
+Introduction: https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/
+
+## Dotenv
+The dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. Storing configuration in the environment separate from code is based on the Twelve-Factor App methodology. Environment variables allow us to manage the configuration of our applications separately from our codebase. Separating configurations makes it easier for our application to be deployed in different environments. Environment variables are variables external to our application which reside in the OS or the container where the production application is running. Because development is mostly done on local machines, environment variables are put either to local environment variables with commands such as set or export, or stored in the local .env file. Common examples of configuration data that are stored in environment variables include:
+
+- HTTP port
+- database connection string
+- location of static files
+- endpoints of external services
+
+The .env file should never be committed to the source code repository. We must place the file into the .gitignore file. (When using git.). Modern editors have support for .env files; for instance, the code has the DotENV extension.
+
+Introduction: https://zetcode.com/javascript/dotenv/
+
+Documentation: https://www.npmjs.com/package/dotenv
+
+## Helmet.js
+Helmet.js is a useful Node.js module that helps you secure HTTP headers returned by your Express apps. HTTP headers are an important part of the HTTP protocol, but are generally transparent from the end-user perspective. The headers provide important metadata about the HTTP request or response so the client (browser) and server can send additional information in a transaction.
+
+Introduction: https://www.veracode.com/blog/secure-development/fasten-your-helmetjs-part-1-securing-your-express-http-headers
+
+Documentation: https://helmetjs.github.io || https://www.npmjs.com/package/helmet
+
+## Morgan 
+Morgan is a Node.js and Express middleware to log HTTP requests and errors, and simplifies the process. In Node.js and Express, middleware is a function that has access to the request and response lifecycle methods, and the next() method to continue logic in your Express server.
+
+Introduction: https://www.digitalocean.com/community/tutorials/nodejs-getting-started-morgan
+
+Documentation: https://www.npmjs.com/package/morgan
+
+## Nodemon
+Nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
+
+Documentation: https://www.npmjs.com/package/nodemon
