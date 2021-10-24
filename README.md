@@ -30,6 +30,12 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 
 Documentation: https://getbootstrap.com/docs/5.1/getting-started/introduction/
 
+### Box Shadow CSS Generator
+Use the sliders and the color picker to set the values and watch the live preview until you reach the desired effect. Select the right-down shift, spread, blur, opacity, color. Pick a custom color for the preview background and your object.
+
+Link: https://html-css-js.com/css/generator/box-shadow/
+
+
 ## Node.js
 Node.js is an open source, cross-platform runtime environment and library that is used for running web applications outside the client’s browser. A runtime environment (sometimes shortened to RTE) contains Web API’s that a developer can access to build a code, and a JavaScript engine that parses that code. This makes it lightweight, flexible and easy to deploy. Node is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind. Every browser has its own version of a JS engine, and node.js is built on Google Chrome’s V8 JavaScript engine. 
 
