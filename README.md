@@ -25,6 +25,13 @@ Context provides a way to pass data through the component tree without having to
 
 Documentation: https://reactjs.org/docs/context.html
 
+### Redux
+Redux is a predictable state container designed to help you write JavaScript apps that behave consistently across client, server, and native environments and are easy to test. While it’s mostly used as a state management tool with React, you can use it with any other JavaScript framework or library. With Redux, the state of your application is kept in a store, and each component can access any state that it needs from this store.
+
+Introduction: https://blog.logrocket.com/why-use-redux-reasons-with-clear-examples-d21bffd5835/
+
+Documentation: https://react-redux.js.org/introduction/getting-started
+
 ### Timeago.js
 Timeago.js is a simple library (less than 1 kb) that is used to format datetime with *** time ago statement. eg: '3 hours ago'.
 
