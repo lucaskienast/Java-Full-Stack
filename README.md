@@ -20,6 +20,11 @@ Documentation: https://reactrouter.com/web/guides/quick-start
 
 Introduction: https://blog.logrocket.com/react-router-dom-tutorial-examples/
 
+### Timeago.js
+Timeago.js is a simple library (less than 1 kb) that is used to format datetime with *** time ago statement. eg: '3 hours ago'.
+
+Documentation: https://timeago.org || https://www.npmjs.com/package/timeago.js/v/4.0.0-beta.3
+
 ### Google Fonts
 Google Fonts is a font embedding service library. This includes free and open source font families, an interactive web directory for browsing the library, and APIs for using the fonts via CSS and Android.
 
