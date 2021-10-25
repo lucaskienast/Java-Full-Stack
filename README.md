@@ -20,6 +20,11 @@ Documentation: https://reactrouter.com/web/guides/quick-start
 
 Introduction: https://blog.logrocket.com/react-router-dom-tutorial-examples/
 
+### Context
+Context provides a way to pass data through the component tree without having to pass props down manually at every level.
+
+Documentation: https://reactjs.org/docs/context.html
+
 ### Timeago.js
 Timeago.js is a simple library (less than 1 kb) that is used to format datetime with *** time ago statement. eg: '3 hours ago'.
 
