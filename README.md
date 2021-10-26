@@ -143,3 +143,10 @@ BCrypt is based on the Blowfish block cipher cryptomatic algorithm and takes the
 Introduction: https://danboterhoven.medium.com/why-you-should-use-bcrypt-to-hash-passwords-af330100b861
 
 Documentation: https://www.npmjs.com/package/bcrypt
+
+### Multer
+File upload is a very common feature that almost every website needs. File upload in Node.js seems to be tedious work but we have multer to the rescue. Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency. Multer adds a body object and a file or files object to the request object. The bodyobject contains the values of the text fields of the form, the file or files object contains the files uploaded via the form.
+
+Documentation: https://www.npmjs.com/package/multer
+
+Introduction: https://medium.com/@svibhuti22/file-upload-with-multer-in-node-js-and-express-5bc76073419f
