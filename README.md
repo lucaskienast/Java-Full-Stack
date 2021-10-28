@@ -25,7 +25,7 @@ Socket.IO is a JavaScript library for realtime web applications. It enables real
 
 Documentation: https://socket.io/docs/v4/ || https://www.npmjs.com/package/socket.io
 
-Introduction: https://socket.io/get-started/chat
+Introduction: https://socket.io/get-started/chat || https://socket.io/docs/v3/emit-cheatsheet/
 
 ### Context
 Context provides a way to pass data through the component tree without having to pass props down manually at every level.
