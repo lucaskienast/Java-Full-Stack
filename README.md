@@ -20,6 +20,13 @@ Documentation: https://reactrouter.com/web/guides/quick-start
 
 Introduction: https://blog.logrocket.com/react-router-dom-tutorial-examples/
 
+### Socket IO
+Socket.IO is a JavaScript library for realtime web applications. It enables realtime, bi-directional communication between web clients and servers. It has two parts: a client-side library that runs in the browser, and a server-side library for Node.js. Both components have a nearly identical API.
+
+Documentation: https://socket.io/docs/v4/ || https://www.npmjs.com/package/socket.io
+
+Introduction: https://socket.io/get-started/chat
+
 ### Context
 Context provides a way to pass data through the component tree without having to pass props down manually at every level.
 
