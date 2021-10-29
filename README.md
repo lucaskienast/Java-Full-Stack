@@ -157,3 +157,15 @@ File upload is a very common feature that almost every website needs. File uploa
 Documentation: https://www.npmjs.com/package/multer
 
 Introduction: https://medium.com/@svibhuti22/file-upload-with-multer-in-node-js-and-express-5bc76073419f
+
+## Tutorials
+
+Node.js and Express.js: https://www.youtube.com/watch?v=Oe421EPjeBE
+
+Node.js REST API with MongoDB: https://www.youtube.com/watch?v=ldGl6L4Vktk&list=PLj-4DlPRT48lXaz5YLvbLC38m25W9Kmqy&index=1
+
+React.js front-end design: https://www.youtube.com/watch?v=zM93yZ_8SvE&list=PLj-4DlPRT48lXaz5YLvbLC38m25W9Kmqy&index=2
+
+MERN Stack with Hooks and Context API: https://www.youtube.com/watch?v=pFHyZvVxce0&list=PLj-4DlPRT48lXaz5YLvbLC38m25W9Kmqy&index=3
+
+Chat App with Socket IO: https://www.youtube.com/watch?v=HggSXt1Hzfk&list=PLj-4DlPRT48lXaz5YLvbLC38m25W9Kmqy&index=5
