@@ -160,6 +160,8 @@ Introduction: https://medium.com/@svibhuti22/file-upload-with-multer-in-node-js-
 
 ## Tutorials
 
+Asynchronous JS (Async/Await, Promises, Callbacks): https://www.youtube.com/watch?v=ZYb_ZU8LNxs
+
 Node.js and Express.js: https://www.youtube.com/watch?v=Oe421EPjeBE
 
 Node.js REST API with MongoDB: https://www.youtube.com/watch?v=ldGl6L4Vktk&list=PLj-4DlPRT48lXaz5YLvbLC38m25W9Kmqy&index=1
