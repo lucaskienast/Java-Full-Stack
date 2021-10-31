@@ -83,6 +83,17 @@ Introduction: https://expressjs.com/en/starter/basic-routing.html || https://www
 
 Documentation: https://expressjs.com/en/5x/api.html
 
+### HTTP Response Status Codes
+HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:
+
+- Informational responses (100–199)
+- Successful responses (200–299)
+- Redirection messages (300–399)
+- Client error responses (400–499)
+- Server error responses (500–599)
+
+Documentation: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
 ### Postman
 Postman is an application used for API testing. It is an HTTP client that tests HTTP requests, utilizing a graphical user interface, through which we obtain different types of responses that need to be subsequently validated. 
 
