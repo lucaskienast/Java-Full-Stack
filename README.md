@@ -94,6 +94,11 @@ HTTP response status codes indicate whether a specific HTTP request has been suc
 
 Documentation: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
+### MIME Types
+A media type (also known as a Multipurpose Internet Mail Extensions or MIME type) indicates the nature and format of a document, file, or assortment of bytes. 
+
+Documentation: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
+
 ### Postman
 Postman is an application used for API testing. It is an HTTP client that tests HTTP requests, utilizing a graphical user interface, through which we obtain different types of responses that need to be subsequently validated. 
 
