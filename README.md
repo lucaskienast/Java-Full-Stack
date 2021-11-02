@@ -174,6 +174,11 @@ Documentation: https://www.npmjs.com/package/multer
 
 Introduction: https://medium.com/@svibhuti22/file-upload-with-multer-in-node-js-and-express-5bc76073419f
 
+### Hacker News API
+This API is built on top of Algolia Search's API. It enables developers to access HN data programmatically using a REST API. This documentation describes how to request data from the API and how to interpret the response.
+
+Documentation: https://hn.algolia.com/api
+
 ## Tutorials
 
 Asynchronous JS (Async/Await, Promises, Callbacks): https://www.youtube.com/watch?v=ZYb_ZU8LNxs
