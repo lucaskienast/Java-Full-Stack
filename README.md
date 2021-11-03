@@ -99,6 +99,8 @@ JSON Web Token is a proposed Internet standard for creating data with optional s
 
 Documentation: https://jwt.io
 
+jsonwebtoken package: https://www.npmjs.com/package/jsonwebtoken
+
 ### MIME Types
 A media type (also known as a Multipurpose Internet Mail Extensions or MIME type) indicates the nature and format of a document, file, or assortment of bytes. 
 
