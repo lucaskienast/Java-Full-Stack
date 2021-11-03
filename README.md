@@ -103,6 +103,8 @@ Documentation: https://jwt.io
 
 jsonwebtoken package: https://www.npmjs.com/package/jsonwebtoken
 
+Key generator: https://allkeysgenerator.com/
+
 ### MIME Types
 A media type (also known as a Multipurpose Internet Mail Extensions or MIME type) indicates the nature and format of a document, file, or assortment of bytes. 
 
