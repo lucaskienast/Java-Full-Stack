@@ -94,6 +94,8 @@ HTTP response status codes indicate whether a specific HTTP request has been suc
 
 Documentation: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
+Package: https://www.npmjs.com/package/http-status-codes
+
 ### JSON Web Tokens (JWT)
 JSON Web Token is a proposed Internet standard for creating data with optional signature and/or optional encryption whose payload holds JSON that asserts some number of claims. The tokens are signed either using a private secret or a public/private key.
 
