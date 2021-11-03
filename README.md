@@ -94,6 +94,11 @@ HTTP response status codes indicate whether a specific HTTP request has been suc
 
 Documentation: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
+### JSON Web Tokens (JWT)
+JSON Web Token is a proposed Internet standard for creating data with optional signature and/or optional encryption whose payload holds JSON that asserts some number of claims. The tokens are signed either using a private secret or a public/private key.
+
+Documentation: https://jwt.io
+
 ### MIME Types
 A media type (also known as a Multipurpose Internet Mail Extensions or MIME type) indicates the nature and format of a document, file, or assortment of bytes. 
 
