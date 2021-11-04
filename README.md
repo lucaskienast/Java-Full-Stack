@@ -83,6 +83,11 @@ Introduction: https://expressjs.com/en/starter/basic-routing.html || https://www
 
 Documentation: https://expressjs.com/en/5x/api.html
 
+### Express Rate Limit
+Basic rate-limiting middleware for Express. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
+
+Documentation: https://www.npmjs.com/package/express-rate-limit
+
 ### HTTP Response Status Codes
 HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:
 
