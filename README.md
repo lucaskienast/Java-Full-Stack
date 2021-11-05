@@ -88,6 +88,11 @@ Basic rate-limiting middleware for Express. Use to limit repeated requests to pu
 
 Documentation: https://www.npmjs.com/package/express-rate-limit
 
+### Express Fileupload
+Simple express middleware for uploading files.
+
+Documentation: https://www.npmjs.com/package/express-fileupload
+
 ### HTTP Response Status Codes
 HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:
 
