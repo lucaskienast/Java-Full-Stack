@@ -1,4 +1,4 @@
-# JavaScript Web Applications
+# Java & MERN Full-Stack
 Overview of Java Full Stack development tools and applications.
 
 - React.js
