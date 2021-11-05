@@ -222,6 +222,11 @@ Background info: https://portswigger.net/web-security/cross-site-scripting
 
 Documentation: https://www.npmjs.com/package/xss-clean
 
+### Nodemailer
+Nodemailer is a module for Node. js applications to allow easy as cake email sending.
+
+Documentation: https://nodemailer.com/about/ || https://www.npmjs.com/package/nodemailer
+
 ## Tutorials
 
 Asynchronous JS (Async/Await, Promises, Callbacks): https://www.youtube.com/watch?v=ZYb_ZU8LNxs
