@@ -222,12 +222,14 @@ Background info: https://portswigger.net/web-security/cross-site-scripting
 
 Documentation: https://www.npmjs.com/package/xss-clean
 
-### Nodemailer & Ethereal
-Nodemailer is a module for Node. js applications to allow easy as cake email sending. Ethereal is a fake SMTP service, mostly aimed at Nodemailer users (but not limited to). It's a completely free anti-transactional email service where messages never get delivered.
+### Nodemailer, Ethereal, & SendGrid
+Nodemailer is a module for Node. js applications to allow easy as cake email sending. Ethereal is a fake SMTP service, mostly aimed at Nodemailer users for testing (but not limited to). It's a completely free anti-transactional email service where messages never get delivered. SendGrid is a cloud-based SMTP provider that allows you to send email without having to maintain email servers for production. SendGrid manages all of the technical details, from scaling the infrastructure to ISP outreach and reputation monitoring to whitelist services and real time analytics.
 
 Nodemailer: https://nodemailer.com/about/ || https://www.npmjs.com/package/nodemailer
 
 Ethereal: https://ethereal.email/ || https://www.npmjs.com/package/ethereal
+
+SendGrid: https://docs.sendgrid.com/for-developers || https://www.npmjs.com/package/@sendgrid/mail
 
 ## Tutorials
 
