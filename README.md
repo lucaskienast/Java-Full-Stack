@@ -129,6 +129,16 @@ Introduction: https://swagger.io/blog/api-development/getting-started-with-swagg
 
 Documentation: https://swagger.io/docs/
 
+### Swagger UI Express
+This module allows you to serve auto-generated swagger-ui generated API docs from express, based on a swagger.json file. The result is living documentation for your API hosted from your API server via a route.
+
+Documentation: https://www.npmjs.com/package/swagger-ui-express
+
+### Yaml.js
+YAML is a human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted. YAML targets many of the same communications applications as Extensible Markup Language but has a minimal syntax which intentionally differs from SGML. 
+
+Documentation: https://www.npmjs.com/package/yamljs
+
 ### MongoDB
 MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License.
 
