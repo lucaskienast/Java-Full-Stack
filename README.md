@@ -198,6 +198,11 @@ Introduction: https://danboterhoven.medium.com/why-you-should-use-bcrypt-to-hash
 
 Documentation: https://www.npmjs.com/package/bcrypt
 
+### Cloudinary
+Cloudinary is an end-to-end image- and video-management solution for websites and mobile apps, covering everything from image and video uploads, storage, manipulations, optimizations to delivery.
+
+Documentation: https://www.npmjs.com/package/cloudinary
+
 ### Multer
 File upload is a very common feature that almost every website needs. File upload in Node.js seems to be tedious work but we have multer to the rescue. Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency. Multer adds a body object and a file or files object to the request object. The bodyobject contains the values of the text fields of the form, the file or files object contains the files uploaded via the form.
 
