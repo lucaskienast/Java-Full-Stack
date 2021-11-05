@@ -211,7 +211,7 @@ Documentation: https://www.npmjs.com/package/multer
 Introduction: https://medium.com/@svibhuti22/file-upload-with-multer-in-node-js-and-express-5bc76073419f
 
 ### Hacker News API
-This API is built on top of Algolia Search's API. It enables developers to access HN data programmatically using a REST API. This documentation describes how to request data from the API and how to interpret the response.
+This API is built on top of Algolia Search's API. It enables developers to access HN data programmatically using a REST API. This documentation describes how to request data from the API and how to interpret the response. 
 
 Documentation: https://hn.algolia.com/api
 
@@ -222,10 +222,12 @@ Background info: https://portswigger.net/web-security/cross-site-scripting
 
 Documentation: https://www.npmjs.com/package/xss-clean
 
-### Nodemailer
-Nodemailer is a module for Node. js applications to allow easy as cake email sending.
+### Nodemailer & Ethereal
+Nodemailer is a module for Node. js applications to allow easy as cake email sending. Ethereal is a fake SMTP service, mostly aimed at Nodemailer users (but not limited to). It's a completely free anti-transactional email service where messages never get delivered.
 
-Documentation: https://nodemailer.com/about/ || https://www.npmjs.com/package/nodemailer
+Nodemailer: https://nodemailer.com/about/ || https://www.npmjs.com/package/nodemailer
+
+Ethereal: https://ethereal.email/ || https://www.npmjs.com/package/ethereal
 
 ## Tutorials
 
