@@ -158,6 +158,11 @@ Getting Started: https://mongoosejs.com/docs/
 
 Introduction: https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/
 
+### Validator 
+A validator is a computer program used to check the validity or syntactical correctness of a fragment of code or document. The term is commonly used in the context of validating HTML, CSS, and XML documents like RSS feeds, though it can be used for any defined format or language.
+
+Documentation: https://www.npmjs.com/package/validator
+
 ### Dotenv
 The dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. Storing configuration in the environment separate from code is based on the Twelve-Factor App methodology. Environment variables allow us to manage the configuration of our applications separately from our codebase. Separating configurations makes it easier for our application to be deployed in different environments. Environment variables are variables external to our application which reside in the OS or the container where the production application is running. Because development is mostly done on local machines, environment variables are put either to local environment variables with commands such as set or export, or stored in the local .env file. Common examples of configuration data that are stored in environment variables include:
 
