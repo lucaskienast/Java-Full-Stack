@@ -127,22 +127,19 @@ Introduction: https://www.encora.com/insights/what-is-postman-api-test
 
 Documentation: https://learning.postman.com/docs/getting-started/introduction/
 
-### Swagger
-Swagger is a set of rules (in other words, a specification) for a format describing REST APIs. The format is both machine-readable and human-readable. As a result, it can be used to share documentation among product managers, testers and developers, but can also be used by various tools to automate API-related processes. When we say REST, we don’t necessarily adhere to the RESTful rules. We refer to the basic concepts behind REST APIs. 
+### Documentation:
+
+1. Swagger, Swagger-UI-Express, & YAML
 
 Introduction: https://swagger.io/blog/api-development/getting-started-with-swagger-i-what-is-swagger/
 
-Documentation: https://swagger.io/docs/
+Documentation: https://swagger.io/docs/ || https://www.npmjs.com/package/swagger-ui-express || https://www.npmjs.com/package/yamljs
 
-### Swagger UI Express
-This module allows you to serve auto-generated swagger-ui generated API docs from express, based on a swagger.json file. The result is living documentation for your API hosted from your API server via a route.
+2. Docgen
 
-Documentation: https://www.npmjs.com/package/swagger-ui-express
+Introduction: https://awesomeopensource.com/project/thedevsaddam/docgen
 
-### Yaml.js
-YAML is a human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted. YAML targets many of the same communications applications as Extensible Markup Language but has a minimal syntax which intentionally differs from SGML. 
-
-Documentation: https://www.npmjs.com/package/yamljs
+Documentation: https://github.com/thedevsaddam/docgen
 
 ### MongoDB
 MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License.
