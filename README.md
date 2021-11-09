@@ -135,7 +135,7 @@ Introduction: https://swagger.io/blog/api-development/getting-started-with-swagg
 
 Documentation: https://swagger.io/docs/ || https://www.npmjs.com/package/swagger-ui-express || https://www.npmjs.com/package/yamljs
 
-2. Docgen
+2. Docgen (less features, but more user-friendly)
 
 Introduction: https://awesomeopensource.com/project/thedevsaddam/docgen
 
