@@ -146,6 +146,26 @@ Documentation: https://devcenter.heroku.com/articles/getting-started-with-nodejs
 
 Documentation: https://www.npmjs.com/package/express-rate-limit
 
+3. Helmet.js (secure HTTP headers)
+
+Introduction: https://www.veracode.com/blog/secure-development/fasten-your-helmetjs-part-1-securing-your-express-http-headers
+
+Documentation: https://helmetjs.github.io || https://www.npmjs.com/package/helmet
+
+4. XSS-Clean (sanitize user input)
+
+Introduction: https://portswigger.net/web-security/cross-site-scripting
+
+Documentation: https://www.npmjs.com/package/xss-clean
+
+5. Express-Mongo-Sanitize (protect against MongoDB injection)
+
+Documentation: https://www.npmjs.com/package/express-mongo-sanitize
+
+6. CORS (allow access from different domains)
+
+Documentation: https://www.npmjs.com/package/cors
+
 ### MongoDB
 MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License.
 
@@ -178,13 +198,6 @@ The .env file should never be committed to the source code repository. We must p
 Introduction: https://zetcode.com/javascript/dotenv/
 
 Documentation: https://www.npmjs.com/package/dotenv
-
-### Helmet.js
-Helmet.js is a useful Node.js module that helps you secure HTTP headers returned by your Express apps. HTTP headers are an important part of the HTTP protocol, but are generally transparent from the end-user perspective. The headers provide important metadata about the HTTP request or response so the client (browser) and server can send additional information in a transaction.
-
-Introduction: https://www.veracode.com/blog/secure-development/fasten-your-helmetjs-part-1-securing-your-express-http-headers
-
-Documentation: https://helmetjs.github.io || https://www.npmjs.com/package/helmet
 
 ### Morgan 
 Morgan is a Node.js and Express middleware to log HTTP requests and errors, and simplifies the process. In Node.js and Express, middleware is a function that has access to the request and response lifecycle methods, and the next() method to continue logic in your Express server.
@@ -221,13 +234,6 @@ Introduction: https://medium.com/@svibhuti22/file-upload-with-multer-in-node-js-
 This API is built on top of Algolia Search's API. It enables developers to access HN data programmatically using a REST API. This documentation describes how to request data from the API and how to interpret the response. 
 
 Documentation: https://hn.algolia.com/api
-
-### XSS-Clean
-Cross-site scripting (also known as XSS) is a web security vulnerability that allows an attacker to compromise the interactions that users have with a vulnerable application. It allows an attacker to circumvent the same origin policy, which is designed to segregate different websites from each other. Cross-site scripting vulnerabilities normally allow an attacker to masquerade as a victim user, to carry out any actions that the user is able to perform, and to access any of the user's data. If the victim user has privileged access within the application, then the attacker might be able to gain full control over all of the application's functionality and data.
-
-Background info: https://portswigger.net/web-security/cross-site-scripting
-
-Documentation: https://www.npmjs.com/package/xss-clean
 
 ### Nodemailer, Ethereal, & SendGrid
 Nodemailer is a module for Node. js applications to allow easy as cake email sending. Ethereal is a fake SMTP service, mostly aimed at Nodemailer users for testing (but not limited to). It's a completely free anti-transactional email service where messages never get delivered. SendGrid is a cloud-based SMTP provider that allows you to send email without having to maintain email servers for production. SendGrid manages all of the technical details, from scaling the infrastructure to ISP outreach and reputation monitoring to whitelist services and real time analytics.
