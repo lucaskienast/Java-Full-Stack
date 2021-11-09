@@ -83,11 +83,6 @@ Introduction: https://expressjs.com/en/starter/basic-routing.html || https://www
 
 Documentation: https://expressjs.com/en/5x/api.html
 
-### Express Rate Limit
-Basic rate-limiting middleware for Express. Use to limit repeated requests to public APIs and/or endpoints such as password reset.
-
-Documentation: https://www.npmjs.com/package/express-rate-limit
-
 ### Express Fileupload
 Simple express middleware for uploading files.
 
@@ -127,7 +122,7 @@ Introduction: https://www.encora.com/insights/what-is-postman-api-test
 
 Documentation: https://learning.postman.com/docs/getting-started/introduction/
 
-### Documentation:
+### Documentation
 
 1. Swagger, Swagger-UI-Express, & YAML
 
@@ -140,6 +135,16 @@ Documentation: https://swagger.io/docs/ || https://www.npmjs.com/package/swagger
 Introduction: https://awesomeopensource.com/project/thedevsaddam/docgen
 
 Documentation: https://github.com/thedevsaddam/docgen
+
+### Cloud Deployment
+
+1. Heroku
+
+Documentation: https://devcenter.heroku.com/articles/getting-started-with-nodejs
+
+2. Express Rate Limit
+
+Documentation: https://www.npmjs.com/package/express-rate-limit
 
 ### MongoDB
 MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License.
