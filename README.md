@@ -64,7 +64,12 @@ Documentation: https://getbootstrap.com/docs/5.1/getting-started/introduction/
 ### Box Shadow CSS Generator
 Use the sliders and the color picker to set the values and watch the live preview until you reach the desired effect. Select the right-down shift, spread, blur, opacity, color. Pick a custom color for the preview background and your object.
 
-Link: https://html-css-js.com/css/generator/box-shadow/
+See: https://html-css-js.com/css/generator/box-shadow/
+
+### Formspree
+Formspree is a form backend, API and email service for HTML forms. It is the simplest way to embed custom contact us forms, order forms, or email capture forms. Formspree is a tool in the Web Forms category of a tech stack.
+
+Introduction: https://formspree.io/
 
 
 ## Node.js
