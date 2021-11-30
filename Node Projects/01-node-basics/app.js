@@ -1,0 +1,1 @@
+console.log("Paste code in here to be run by npm start");
